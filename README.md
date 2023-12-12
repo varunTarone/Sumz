@@ -1,6 +1,6 @@
 # Sumz
 
-An AI-powered summarizer that can summarize any article into a few sentences
+An AI-powered summarizer that can summarize any article into a few sentences.
 <br>
 Technologies used:
 
