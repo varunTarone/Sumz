@@ -1,8 +1,15 @@
-# React + Vite
+# Sumz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered summarizer that can summarize any article into a few sentences.
+<br>
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Vite 
+- React
+- Node.js
+- API ( [Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer) from RapidAPI)
+
+Hosted on [Netlify](https://app.netlify.com/sites/summarizeart/deploys)
+<br><br>
+![Netlify Status](https://api.netlify.com/api/v1/badges/fe0ff399-dccd-4944-a241-186875126925/deploy-status)
