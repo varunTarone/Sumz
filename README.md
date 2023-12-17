@@ -8,7 +8,7 @@ An AI-powered summarizer that can summarize any article into a few sentences.
 - Vite 
 - React
 - Node.js
-- API ( [Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer) from RapidAPI)
+- API ( [Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer) from RapidAPI )
 
 Hosted on [Netlify](https://summarizeart.netlify.app/)
 <br><br>
