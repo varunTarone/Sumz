@@ -8,7 +8,7 @@ const  Hero = () => {
 
         <button
           type='button'
-          onClick={() => window.open('https://github.com')}
+          onClick={() => window.open('https://github.com/varunTarone/Sumz')}
           className="black_btn"
         >
           GitHub
